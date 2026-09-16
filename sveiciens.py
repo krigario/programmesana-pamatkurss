@@ -1,1 +1,1 @@
-print("cau visiem lasitajiem!")
+print("nomaina sveiciena tekstinu!")
