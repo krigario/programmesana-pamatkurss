@@ -1,5 +1,5 @@
 # Programmēšana - pamatkurss
-Autors: **Kristaps Gailis**
+Autors: **Kristaps Gailis 11.B**
 ## Palaišana
 ## Ergonomika
 - 
